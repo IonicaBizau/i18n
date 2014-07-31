@@ -57,6 +57,9 @@ Example:
 ### dev
  - Add new fixes and features here
 
+### v0.3.0
+ - Updated deps
+
 ### v0.2.7
  - Updated to Events v0.1.8 and Bind v0.2.1
 
