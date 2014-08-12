@@ -57,6 +57,9 @@ Example:
 ### dev
  - Add new fixes and features here
 
+### v0.3.1
+ - Updated to Bind `v0.3.1`
+
 ### v0.3.0
  - Updated deps
 
