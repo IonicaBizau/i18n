@@ -1,6 +1,6 @@
 {
     "source": "github",
-    "owner": "IonicaBizau",
+    "owner": "jillix",
     "name": "i18n",
     "dependencies": [
         "/i18n.js",
