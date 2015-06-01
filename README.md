@@ -54,8 +54,9 @@ Example:
 `config.listen` is an array of miids that emit the `message` event.
 ## Changelog
 
-### dev
- - Add new fixes and features here
+### v0.4.0
+ - transferred the module to the new jxMono organization
+ - updated Bind to `v0.4.0`, Events to `v0.4.0`
 
 ### v0.3.0
  - Updated deps
